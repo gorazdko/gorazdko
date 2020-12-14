@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 [![Gorazdko github stats](https://github-readme-stats.vercel.app/api?username=gorazdko&theme=dracula)](https://github.com/gorazdko/github-readme-stats)
 
+
+[![Gorazdko wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gorazdko&layout=default&theme=dracula)](https://github.com/gorazdko/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorazdko&layout=default&theme=dracula)](https://github.com/gorazdko/github-readme-stats)
