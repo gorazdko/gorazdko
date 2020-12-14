@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Bitcoin related projects
 - 🌱 I have experience in C/C++, Python, Rust, JS, Linux, Embedded Systems
-- 📫 How to reach me: gorazdko@gmail.com
+- 📫 How to reach me: gorazdko[at]gmail.com
