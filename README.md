@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Gorazdko github stats](https://github-readme-stats.vercel.app/api?username=gorazdko&theme=dracula&show_owner=false)](https://github.com/gorazdko/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorazdko&layout=default&theme=dracula)](https://github.com/gorazdko/github-readme-stats)
+- 🔭 I’m currently working with Rust on Bitcoin related projects
+- 🌱 I have experience with C/C++, Python, JS, Linux
+- 📫 How to reach me: gorazdko@gmail.com
