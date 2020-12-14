@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gorazdko github stats](https://github-readme-stats.vercel.app/api?username=gorazdko&theme=dracula&show_icons=true)](https://github.com/gorazdko/github-readme-stats)
+[![Gorazdko github stats](https://github-readme-stats.vercel.app/api?username=gorazdko&theme=dracula&show_icons=true&hide=stars)](https://github.com/gorazdko/github-readme-stats)
 
 - 🔭 I’m currently working with Rust on Bitcoin related projects
 - 🌱 I have experience with C/C++, Python, JS, Linux
