@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Bitcoin related projects
 - 🌱 I use C/C++, Python, Rust, JS, HTML, Linux, Embedded Systems
-- 💼 I have used but not currently: MySQL, BLE, VHDL
+- 💼 I have used but not currently: SQL, BLE, VHDL
 - 📫 How to reach me: gorazdko@gmail.com
