@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 [![Gorazdko github stats](https://github-readme-stats.vercel.app/api?username=gorazdko&theme=merko&show_icons=true&hide=stars)](https://github.com/gorazdko/github-readme-stats)
 
 - 🔭 I’m currently working on Bitcoin related projects
-- 🌱 I have experience in C/C++, Python, Rust, JS, Linux, Embedded Systems
+- 🌱 I use C/C++, Python, Rust, JS, HTML, Linux, Embedded Systems
+- 💼 I have used but not currently: MySQL, BLE, VHDL
 - 📫 How to reach me: gorazdko@gmail.com
