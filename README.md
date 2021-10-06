@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 [![Gorazdko github stats](https://github-readme-stats.vercel.app/api?username=gorazdko&theme=merko&show_icons=true&hide=stars)](https://github.com/gorazdko/github-readme-stats)
 
 - 🔭 I’m working on Bitcoin related projects
-- 💼  I use C/C++, Python, Rust, JS, HTML, Linux, Embedded C
 - 📫 How to reach me: gorazdko@gmail.com
