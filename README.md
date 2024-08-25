@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 [![Gorazdko github stats](https://github-readme-stats.vercel.app/api?username=gorazdko&theme=merko&show_icons=true&hide=stars)](https://github.com/gorazdko/github-readme-stats)
 
-- 🔭 Bitcoin. Embedded Rust.
+- 🔭 Embedded Rust.
 - 📫 How to reach me: gorazdko@gmail.com
