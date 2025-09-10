@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - 🔭 Embedded Rust.
 - 📫 How to reach me: gorazdko@gmail.com
-- 💬 My [Blog](https://gist.github.com/gorazdko/0d305d3b7754710d9bbc83c7e8bd6494)
+
